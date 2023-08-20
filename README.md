@@ -1,17 +1,8 @@
+
 ## Olá sou Dimas Torres, desenvolvedor de software em .net 👋
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DimasTorres&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DimasTorres&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=DimasTorres&show_icons=true" />
-</picture>
-
+| <a href="https://github.com/dimastorres/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dimastorres&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Dimas's github stats" /></a> | <a href="https://github.com/dimastorres/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimastorres&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dimas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
