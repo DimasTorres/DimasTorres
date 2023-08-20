@@ -1,5 +1,5 @@
 
-## Olá sou Dimas Torres, desenvolvedor de software em .net 👋
+## Olá sou Dimas Torres, desenvolvedor de software em .net 
 
 | <a href="https://github.com/dimastorres/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dimastorres&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Dimas's github stats" /></a> | <a href="https://github.com/dimastorres/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimastorres&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
